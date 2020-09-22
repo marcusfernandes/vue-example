@@ -56,7 +56,10 @@ module.exports = function(ctx) {
         'QList',
         'QItem',
         'QItemSection',
-        'QItemLabel'
+        'QItemLabel',
+        'QInput',
+        'QForm',
+        'QCard'
       ],
 
       directives: ['Ripple'],
